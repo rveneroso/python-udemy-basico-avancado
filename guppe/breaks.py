@@ -1,0 +1,1 @@
+# Break em Python é exatamente igual em Java. Portanto, não codifiquei nada.

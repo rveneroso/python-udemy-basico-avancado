@@ -1,0 +1,4 @@
+Acabei perdendo o conteúdo original do arquivo ao tentar adicionar uma linha a ele via programa Python. Fiz shit.
+E agora me vejo a adicionar uma segunda linha.
+Preciso também de uma terceira.
+E essa quarta eu incluí porque eu quis.
